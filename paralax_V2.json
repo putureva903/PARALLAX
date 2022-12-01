@@ -29,81 +29,81 @@
   ],
   "Categories": [
     {
-      "name_category": "Mawar",
+      "name_category": "Bunga",
       "wallpaper_url": "https://i.pinimg.com/564x/73/0d/03/730d03918a43ecd9a7e11884aedf5850.jpg"
-    },
-    {
-      "name_category": "Tulip",
-      "wallpaper_url": "https://i.pinimg.com/564x/ed/c1/e1/edc1e1355961f719edae0a17122b7a49.jpg"
-    },
-    {
-      "name_category": "Kamboja",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Mawar",
-      "wallpaper_name": "Mawar Wallpaper",
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/73/0d/03/730d03918a43ecd9a7e11884aedf5850.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/c1/e1/edc1e1355961f719edae0a17122b7a49.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/67/19/c2/6719c2f973ba5aaf2e68d38a068b89a4.jpg"
     },
-    {
-      "id": 2,
-      "name_category": "Tulip",
-      "wallpaper_name": "Tulip Wallpaper",
+	{
+      "id": 4,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/79/e8/f1/79e8f1bfe44963a6170b0ba55dad4cf3.jpg"
     },
-    {
-      "id": 3,
-      "name_category": "Kamboja",
-      "wallpaper_name": "Kamboja Wallpaper",
+	{
+      "id": 5,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/d1/1f/c7/d11fc7fdd71d7f6b833f7b2c35401fc5.jpg"
     },
-    {
-      "id": 4,
-      "name_category": "Mawar",
-      "wallpaper_name": "Mawar Wallpaper",
+	{
+      "id": 6,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/87/c6/78/87c678949b16b687b6a0fad6f79b3a56.jpg"
     },
-    {
-      "id": 5,
-      "name_category": "Mawar",
-      "wallpaper_name": "Mawar Wallpaper",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
-    },
-    {
-      "id": 6,
-      "name_category": "Tulip",
-      "wallpaper_name": "Tulip Wallpaper",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "gif/waterfall.gif"
-    },
-    {
+	{
       "id": 7,
-      "name_category": "Kamboja",
-      "wallpaper_name": "Kamboja Wallpaper",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/ee/be/2aeebe79bb24fa62a653fd9839b0eefd.jpg"
     },
-    {
+	{
       "id": 8,
-      "name_category": "Kamboja",
-      "wallpaper_name": "Kamboja Wallpaper",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/37/1e/d8/371ed821f3608fe0bb86ac5fd0fe03da.jpg"
     },
-    {
+	{
       "id": 9,
-      "name_category": "Mawar",
-      "wallpaper_name": "Mawar Wallpaper",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/60/af/e560af270423c338dba238cb6ff06d65.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/28/93/43/289343a7704814a6e6a9844e181fbf4b.jpg"
     }
+    
   ]
 }
