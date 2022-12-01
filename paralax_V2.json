@@ -103,6 +103,20 @@
       "wallpaper_name": "Bunga Mawar",
       "wallpaper_type": "MP4",
       "wallpaper_url": "https://i.pinimg.com/564x/28/93/43/289343a7704814a6e6a9844e181fbf4b.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "gif/waterfall.gif"
+    },
+    {
+      "id": 12,
+      "name_category": "Bunga",
+      "wallpaper_name": "Bunga Mawar",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
     }
     
   ]
