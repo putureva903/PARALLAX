@@ -80,15 +80,15 @@
       "id": 7,
       "name_category": "Bunga",
       "wallpaper_name": "Bunga Mawar 7",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/564x/2a/ee/be/2aeebe79bb24fa62a653fd9839b0eefd.jpg"
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/5b/f8/cb/5bf8cbe8525b6b6ab9d07ded2e1034ba.gif"
     },
 	{
       "id": 8,
       "name_category": "Bunga",
       "wallpaper_name": "Bunga Mawar 8",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/564x/37/1e/d8/371ed821f3608fe0bb86ac5fd0fe03da.jpg"
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/47/1e/0e/471e0e6531bbc7d38ab83d3b86d7acdb.gif"
     },
 	{
       "id": 9,
@@ -102,7 +102,7 @@
       "name_category": "Bunga",
       "wallpaper_name": "Bunga Mawar 10",
       "wallpaper_type": "GIF",
-      "wallpaper_url": "https://i.pinimg.com/originals/64/7a/68/647a68f3cb88e6a78005c22d066978b5.gif"
+      "wallpaper_url": "https://i.pinimg.com/originals/e2/3f/0d/e23f0de182a5d68a4c07a96ca49de2b0.gif"
     }
     
   ]
